@@ -26,4 +26,4 @@ Primera versión de **Autodesk-Cleaner-Enterprise**, fork empresarial de Autodes
 
 ### 📋 Basado en
 
-Autodesk-Nuke Fusion (v2.0.2, v3.0-OOP, v4.0, v5.0, v6.0, v6.2, v6.3) por jcieza / Dealis-SSM
+Autodesk-Nuke Fusion (v2.0.2, v3.0-OOP, v4.0, v5.0, v6.0, v6.2, v6.3) por jcieza
