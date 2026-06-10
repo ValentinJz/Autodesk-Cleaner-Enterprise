@@ -2,7 +2,7 @@
 
 > Herramienta de limpieza profunda de Autodesk, diseñada específicamente para entornos empresariales.
 
-Basado en [Autodesk-Nuke v6.3](https://github.com/jcieza/Autodesk-Nuke) por **jcieza**, reescrito y adaptado para resolver los casos más complejos y problemáticos en empresas.
+Basado en [Autodesk-Nuke v6.3](https://github.com/jcieza/Autodesk-Nuke-A-Autodesk-Clean-Uninstall-Tool/) por **jcieza**, reescrito y adaptado para resolver los casos más complejos y problemáticos en empresas.
 
 ---
 
@@ -115,7 +115,7 @@ Al terminar, el script genera un reporte con:
 
 ## 📝 Créditos
 
-Este proyecto está basado en **[Autodesk-Nuke](https://github.com/jcieza/Autodesk-Nuke)** de **jcieza / Dealis-SSM**.
+Este proyecto está basado en **[Autodesk-Nuke](https://github.com/jcieza/Autodesk-Nuke-A-Autodesk-Clean-Uninstall-Tool/)** de **jcieza / Dealis-SSM**.
 
 Modificado y adaptado para entornos empresariales por **ValentinJz**.
 
